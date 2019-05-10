@@ -1,2 +1,2 @@
 # Metodos-Numericos
-Programacion en python3
+Programación en python 3
